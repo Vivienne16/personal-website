@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be downloaded [here](http://Vivienne16.github.io/personal-website/files/CV_VL.pdf)
+My CV can be downloaded [here](http://Vivienne16.github.io/personal-website/files/CV.pdf)
