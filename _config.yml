@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vivienne Liu"
 title_separator          : "-"
 name                     : &name "Vivienne Liu"
-description              : &description "Mengwei (Vivienne) Liu is a Ph.D student in Systems Engineering. Prior to joining Cornell, she got her Bachelor’s degree in Electrical and Information Engineering from Tianjin University and Master’s degree in Electrical Engineering from Stanford University. She is broadly interested in the area of control and optimization of smart grids with renewable energy integration and her current work focuses on using multi-objective simulation-based optimization methods to help inform policies on the management of microgrids energy systems."
+description              : &description ""
 url                      : https://vivienne16.github.io/vivienneliu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vivienneliu.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Vivienne Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Candidate in Systems Engineering at Cornell University"
+  location         : "Ithaca, NY"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=HdTSkG8AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Vivienne16"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
