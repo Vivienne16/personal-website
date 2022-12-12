@@ -1,7 +1,7 @@
 ---
 title: "An open source representation for the nys electric grid to support power grid and market transition studies"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-08-24-An-open-source-representation
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-08-24
 venue: ' IEEE Transactions on Power Systems'
