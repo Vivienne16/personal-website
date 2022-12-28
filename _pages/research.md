@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Research Project"
+title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
-  - /researchproject
+  - /research
 ---
 
 {% include base_path %}
