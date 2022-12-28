@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "News"
 permalink: /news/
 author_profile: true
 ---
 
 ## Selected Presentations
-1. **Liu, M. V.**, & Anderson, C. L. A Multi-Objective Policy Search Approach for Microgrid Energy Management. ENRE Online Scientific Event; January 27 2022 (Virtual)
-Conference Talks [link](https://media.ed.ac.uk/id/1_gjf98dl2)
+1. **Liu, M. V.**, & Anderson, C. L. A Multi-Objective Policy Search Approach for Microgrid Energy Management. ENRE Online Scientific Event; January 27 2022 (Virtual) [link](https://media.ed.ac.uk/id/1_gjf98dl2)
 2. Multi-Objective Policy Search Optimization of Microgrids Energy Management. Cornell Energy Day; April 10 2019; Ithaca, New York, USA
 3. **Liu, M. V.**, Reed, M. P., & Anderson, C. L. Stochastic Synthetic Data Generation for Electric Net Load
 and Its Application. HICSS-54 Energy Systems Track Get Together; Jan 7 2021 (Virtual)
